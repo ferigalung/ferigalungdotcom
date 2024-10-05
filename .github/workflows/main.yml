@@ -1,0 +1,21 @@
+on: 
+  push:
+    branches:
+      - main
+
+jobs:
+  run_pull:
+    name: run pull
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: install ssh keys
+        run: |
+          install -m 600 -D /dev/null ~/.ssh/id_rsa
+          echo "${{secrets.SSH_PRIVATE_KEY}}" > ~/.ssh/id_rsa
+          ssh-keyscan -H "${{secrests.SSH_HOST}}" > ~/.ssh/known_hosts
+      - name: connect and pull
+        run: ssh ${{secrets.SSH_USER}}@${{secrets.SSH_HOST}} "cd ${{secrets.WORK_DIR}} && git pull && docker stop ferigalung && docker rm ferigalung && docker build -t nginx-ferigalung . && docker run -d --name='ferigalung' -p 80:80 nginx-ferigalung"
+      - name: cleanup
+        run: rm -rf ~/.ssh
+    

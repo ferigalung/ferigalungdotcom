@@ -12,6 +12,8 @@ Berikut beberapa project yang pernah saya buat / kontribusi.
 - [Weather Forecast CLI](https://github.com/ferigalung/weather-forecast-cli.git): Aplikasi CLI berbasis Go lang untuk menampilkan prakiraan cuaca
 
 ## Professional Project (Non Disclosure)
+- [Tepi Bojonegoro](https://tepibojonegoro.com/): Sebuah platform pesan antar makanan dan berbagai kebutuhan pokok via web dan mobile app, terintegrasi dengan layanan ojek lokal.
+- Finpay - Bill Payment: Layanan Finnet untuk pembayaran tagihan dan pembelian pulsa.
 - [Pijar Sekolah](https://pijarsekolah.id/): Sebuah platform pembelajaran digital terpadu yang mendukung pihak sekolah dalam menciptakan pembelajaran yang terintegrasi
 - [Lovit E-Health Super App](https://play.google.com/store/apps/details?id=com.lovit.android&hl=id): Mobile app yang menyediakan layanan kesehatan dan konsultasi dengan dokter untuk seluruh karyawan Yakes Telkom
 - Employee Assessment App: Aplikasi berbasis web untuk melakukan penilaian karyawan RS Aisyiyah Bojonegoro

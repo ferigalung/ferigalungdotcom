@@ -1,5 +1,5 @@
 ---
-author: Sat Naing
+author: Feri Galung
 pubDatetime: 2024-10-01T05:00:00Z
 modDatetime: 2024-10-01T05:22:47.400Z
 title: Bagaimana Cara Deploy Dockerized App ke VPS?

@@ -3,7 +3,7 @@ layout: ../layouts/AboutLayout.astro
 title: "About"
 ---
 
-Saya adalah Backend Developer/Engineer yang berbasis di Bojonegoro, Jawa Timur, Indonesia. Memiliki ketertarikan dengan pemrograman sejak SMK dan telah mengembangkan berbagai macam program dari skala yang kecil sampai skala nasional. Memiliki jiwa penasaran yang sangat tinggi dan selalu pragmatis terhadap suatu masalah.
+Saya adalah software engineer yang berbasis di Jakarta, Indonesia. Memiliki ketertarikan dengan pemrograman sejak SMK dan telah mengembangkan berbagai macam sistem dari skala yang kecil sampai skala nasional. Memiliki jiwa penasaran yang sangat tinggi dan selalu pragmatis terhadap suatu masalah.
 
 Personal blog ini adalah tempat saya berbagi pengalaman saya selama berkarir sebagai programmer/software engineer secara general baik dari sisi teknis maupun non teknis.
 
@@ -15,6 +15,7 @@ Personal blog ini adalah tempat saya berbagi pengalaman saya selama berkarir seb
 
 Stack yang pernah & biasa saya pakai sehari-hari:
 
+- Go
 - NodeJS
 - ExpressJS
 - Fastify
@@ -23,12 +24,11 @@ Stack yang pernah & biasa saya pakai sehari-hari:
 - PostgreSQL
 - Redis
 - AWS S3
-- PHP
-- Go
-- Codeigniter
-- Laravel
-- Vue JS
 - Astro JS
+- Vue JS
 - Tailwind CSS
+- PHP
+- Laravel
+- Codeigniter
 
 

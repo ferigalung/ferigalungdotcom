@@ -39,15 +39,15 @@ export const SOCIALS: SocialObjects = [
     active: false,
   },
   {
-    name: "Instagram",
-    href: "https://instagram.com/ferigalung.dev",
-    linkTitle: `${SITE.title} on Instagram`,
-    active: true,
-  },
-  {
     name: "LinkedIn",
     href: "https://linkedin.com/in/ferigalung",
     linkTitle: `${SITE.title} on LinkedIn`,
+    active: true,
+  },
+  {
+    name: "Instagram",
+    href: "https://instagram.com/ferigalung.dev",
+    linkTitle: `${SITE.title} on Instagram`,
     active: true,
   },
   {
@@ -60,7 +60,7 @@ export const SOCIALS: SocialObjects = [
     name: "Twitter",
     href: "https://twitter.com/ferigalung",
     linkTitle: `${SITE.title} on Twitter`,
-    active: true,
+    active: false,
   },
   {
     name: "Twitch",

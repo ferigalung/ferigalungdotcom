@@ -12,6 +12,7 @@ Berikut beberapa project yang pernah saya buat / kontribusi.
 - [Weather Forecast CLI](https://github.com/ferigalung/weather-forecast-cli.git): Aplikasi CLI berbasis Go lang untuk menampilkan prakiraan cuaca
 
 ## Professional Project
+- Astra Loyalty System: Back end engine dari 13 aplikasi customer engagement untuk Astra motor
 - [Tepi Bojonegoro](https://tepibojonegoro.com/): Sebuah platform pesan antar makanan dan berbagai kebutuhan pokok via web dan mobile app, terintegrasi dengan layanan ojek lokal.
 - Finpay - Bill Payment: Layanan Finnet untuk pembayaran tagihan dan pembelian pulsa.
 - [Pijar Sekolah](https://pijarsekolah.id/): Sebuah platform pembelajaran digital terpadu yang mendukung pihak sekolah dalam menciptakan pembelajaran yang terintegrasi
